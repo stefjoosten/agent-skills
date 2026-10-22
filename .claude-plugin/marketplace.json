@@ -1,0 +1,15 @@
+{
+  "name": "stefjoosten-agent-skills",
+  "description": "Agent Skills for Ampersand (relation algebra, ADL, generated prototypes) and other reusable work, by Stef Joosten",
+  "owner": {
+    "name": "Stef Joosten",
+    "url": "https://github.com/stefjoosten"
+  },
+  "plugins": [
+    {
+      "name": "ampersand",
+      "source": "./plugins/ampersand",
+      "description": "Explain and reason about Ampersand rules, drive a generated prototype's REST API, import datasets as population, and keep the schema documentation (concept, relation and rule matrices)"
+    }
+  ]
+}

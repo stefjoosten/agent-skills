@@ -1,0 +1,13 @@
+{
+  "name": "ampersand",
+  "description": "Skills for Ampersand: rules and relation algebra, prototype REST API, data import as population, schema documentation",
+  "version": "1.0.0",
+  "author": {
+    "name": "Stef Joosten",
+    "url": "https://github.com/stefjoosten"
+  },
+  "homepage": "https://github.com/stefjoosten/agent-skills",
+  "repository": "https://github.com/stefjoosten/agent-skills",
+  "license": "MIT",
+  "keywords": ["ampersand", "relation-algebra", "adl", "business-rules", "prototype", "rest-api", "schema-documentation"]
+}
